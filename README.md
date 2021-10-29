@@ -20,6 +20,7 @@ Created by Dmitry Rozhkov
 
 ### Установка
 $ npm install
+$ npx playwright install
 
 ## Запуск тестов
 #### Запуск всех тестов
