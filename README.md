@@ -1,4 +1,4 @@
-# Miro. Test assessment for QA Engineer
+# Test assessment for QA Engineer
 Created by Dmitry Rozhkov
 
 ## Общая информация
