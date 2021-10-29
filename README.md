@@ -29,6 +29,8 @@ $ npx playwright test
 $ npx playwright test {testName}.spec.ts
 #### Запуск конкретного теста с открытием браузера
 $ npx playwright test {testName}.spec.ts --headed
+#### Запуск тестов с заданным количеством потоков (по-умолчанию, выбирается максимально доступное количество, равное количеству ядер процессора)
+$ npx playwright test --workers 4
 
 ## Настройка запуска
 
